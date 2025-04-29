@@ -13,7 +13,7 @@ acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ vi abc.txt
 acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ more abc.txt
 David
 Johns
-Screenshot 2025-04-29 213841
+
 
 # Create an empty file named 'example.txt'
 acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ touch exmaple.txt
@@ -25,7 +25,7 @@ acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ vi example.txt
 acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ head -2 example.txt
 id name marks
 01 Amal 64
-Screenshot 2025-04-29 213931
+
 
 # Display the first 10 lines (default) of 'example.txt'
 acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ head example.txt
@@ -35,7 +35,6 @@ id name marks
 03 Izla 85
 04 Same 63
 05 Acer 77
-Screenshot 2025-04-29 214409
 # Display the last 8 lines of 'example.txt'
 acer@LAPTOP-K6HGJU0K:/mnt/c/Users/Acer$ tail -8 example.txt
 id name marks
@@ -44,7 +43,7 @@ id name marks
 03 Izla 85
 04 Same 63
 05 Acer 77
-Screenshot 2025-04-29 214445
+
 
 
 # Display the 4th line of 'example.txt'
